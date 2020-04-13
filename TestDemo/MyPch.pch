@@ -1,0 +1,22 @@
+//
+//  MyPch.pch
+//  TestDemo
+//
+//  Created by 黄山锋 on 2020/4/13.
+//  Copyright © 2020 SFTeam. All rights reserved.
+//
+
+#ifndef MyPch_pch
+#define MyPch_pch
+
+#ifdef __OBJC__
+
+
+#import <AFNetworking/AFNetworking.h>
+#import <MJRefresh/MJRefresh.h>
+#import <YYModel/YYModel.h>
+
+
+#endif
+
+#endif /* MyPch_pch */
